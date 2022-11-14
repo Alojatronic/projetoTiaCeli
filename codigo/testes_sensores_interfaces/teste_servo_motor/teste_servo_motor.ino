@@ -4,8 +4,6 @@
 #define pin_servo 7
 
 Servo myservo; 
-Ultrasonic ultrasonic(pin_TRIGGER, pin_ECHO);
-
 
 void setup () {
     myservo.attach(pin_servo);  
