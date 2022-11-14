@@ -14,5 +14,5 @@ O dispenser detectaria o gato se aproximando por meio de um sensor ultrassônico
 
 A utilidade desse dispenser, além de prover alimentação para os gatos, é possibilitar o mapeamento desses felinos, pois conforme os dispensers ficassem vazios, seria possível determinar que naquele local em específico há um fluxo maior desses animais, tornando mais fácil a captura deles para que possam ser castrados, vacinados, entre outros.
 
-## Material de apoio
-* [Testes dos sensores e periféricos](https://github.com/Alojatronic/projetoTiaCeli/tree/main/codigo/testes_sensores_interfaces)
+## Documentação
+* [Testes e Código](codigo/Descricao.md)
