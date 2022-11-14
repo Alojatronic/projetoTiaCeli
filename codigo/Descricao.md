@@ -1,7 +1,7 @@
 ## 
 ### Fluxograma 
 <p align="center">
-  <img src="../img/Fluxograma_dispenser.jpg" width="400" height="320" />
+  <img src="../img/Fluxograma_dispenser.jpg" width="200" height="400" />
 </p>
 
 
