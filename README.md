@@ -1,11 +1,11 @@
-# ProjetoTiaCeli
+# Projeto Tia Celi
 
 ## Protótipo de dispenser para ração felina
 
 Neste repositório estão presentes todas as etapas para a construção do protótipo de dispenser de ração para gatos. O objetivo deste projeto é automatizar e tornar mais eficiente a distribuição de alimentos para os gatos que vivem no campus 2 da USP São Carlos, tendo em vista que existem mais de 50 vivendo no local.
 
 <p align="center">
-  <img src="img/animacao_tia_celi.gif" width="400" height="320" />
+  <img src="img/animacao_tia_celi.gif" width="400" height="420" />
 </p>
 
 ## Como funcionaria o dispenser e sua utilidade
